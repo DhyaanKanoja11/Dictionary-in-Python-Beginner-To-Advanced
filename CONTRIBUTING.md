@@ -46,7 +46,7 @@ To set up the Dictionaries in Python Project for development, follow the [README
 
 ## License
 
-By contributing to the Dictionaries in Python Project, you agree that your contributions will be licensed under the [License](https://github.com/DhyaanKanoja11/Dictionary-in-Python-Beginner-To-Advanced/blob/main/LICENSE.md).
+By contributing to the Dictionaries in Python Project, you agree that your contributions will be licensed under the [License](https://github.com/DhyaanKanoja11/Dictionary-in-Python-Beginner-To-Advanced/blob/main/LICENSE).
 
 Thank you for considering contributing to the Dictionaries in Python Project! We value your input and appreciate your efforts to make this project better.
 
